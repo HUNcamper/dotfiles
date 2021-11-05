@@ -9,7 +9,7 @@
 - Distro: Debian 11 "Bullseye"
 - Kernel Version: 5.14.0-3-amd64
 - Audio Driver: pulseaudio
-- GPU driver: nouveau
+- GPU Driver: nouveau
 - Terminal Emulator: urxvt
 
 # Desktop Software:
