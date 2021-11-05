@@ -3,6 +3,7 @@
 - RAM: DDR3 16 GB
 - CPU: Intel i7-3720QM @ 3.60GHz (x86_64 architecture) 
 - SSD: Intel SSDSC2BW18 180GB
+- GPU: Nvidia Quadro K2000M
 
 # Main software:
 - Distro: Debian 11 "Bullseye"
