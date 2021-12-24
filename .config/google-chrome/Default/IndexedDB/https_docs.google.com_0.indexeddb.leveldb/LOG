@@ -1,0 +1,6 @@
+2021/11/11-21:48:00.472 2dde Creating DB /home/camper/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2021/11/11-21:48:00.484 2dde Reusing MANIFEST /home/camper/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/11-23:58:16.351 630f Level-0 table #5: started
+2021/11/11-23:58:16.355 630f Level-0 table #5: 8325 bytes OK
+2021/11/11-23:58:16.359 630f Delete type=0 #3
+2021/11/11-23:58:16.360 630f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

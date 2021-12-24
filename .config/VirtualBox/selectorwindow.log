@@ -1,0 +1,21 @@
+00:00:00.349538 VirtualBox GUI VM Selector Window 6.1.30 r148432 linux.amd64 (Nov 22 2021 15:39:16) release log
+00:00:00.349542 Log opened 2021-12-15T16:56:25.590200000Z
+00:00:00.349543 Build Type: release
+00:00:00.349550 OS Product: Linux
+00:00:00.349552 OS Release: 5.14.0-3-amd64
+00:00:00.349553 OS Version: #1 SMP Debian 5.14.12-1 (2021-10-14)
+00:00:00.349594 DMI Product Name: 2441B88
+00:00:00.349609 DMI Product Version: ThinkPad W530
+00:00:00.349627 Firmware type: BIOS
+00:00:00.349694 Host RAM: 15580MB (15.2GB) total, 13303MB (12.9GB) available
+00:00:00.349702 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.349703 Process ID: 17447
+00:00:00.349703 Package type: LINUX_64BITS__DEBIAN_11
+00:00:00.349751 Qt version: 5.15.2
+00:00:00.395660 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.009663 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 960x1053
+00:00:01.461159 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.483622 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:01.497341 refreshCertificates/#2: entry #40: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:03.717895 convertVerifyAndAddPemCertificateToStore: cbData=0x1c624 expected 0x4d7
+00:00:03.718612 refreshCertificates/#3: Found 0/126 SSL certs we/you trust (previously 0/126).

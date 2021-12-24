@@ -1,0 +1,25 @@
+{
+   "author": "Pisek",
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/icon128.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "HBO GO Quality Settings"
+   },
+   "content_scripts": [ {
+      "js": [ "contentscript.js" ],
+      "matches": [ "*://*.hbogo.hu/*", "*://*.hbogo.cz/*", "*://*.hbogo.sk/*", "*://*.hbogo.ro/*", "*://*.hbogo.pl/*", "*://*.hbogo.hr/*", "*://*.hbogo.rs/*", "*://*.hbogo.si/*", "*://*.hbogo.mk/*", "*://*.hbogo.me/*", "*://*.hbogo.bg/*", "*://*.hbogo.ba/*" ]
+   } ],
+   "description": "Forcinq quality settings for HBO GO",
+   "icons": {
+      "128": "icons/icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlloGLXx6e2MKSET0MrF8E14ojkvxlksUc/1Yo47oIBtb4b6zO24HnJtXJHihgRDpSWCNSUkpz5CFDpVhlyrkk4r/G0xHOz/qgwtBXZIVhifT8Lzbtj4Q8kha5ltJTzk/jkN+DX9mwMavogzHURm3gwrq80gQdKRKycoS5rNGQJF4jWihOyJLsZlSNgKq0qP0eAkUwMXKp0zeVMgUUXfvvSrNiRVKS16XPJ8QRGnW3p5tQwHPKviFlP8wsOK57keKYAsvfX4BF0hFn9QsAHa4EtEZYz58tzqJOwh+7RTfLbfSJEBcxixnB7esPCqNCy59zC5lPKuvWUMbLbQIxKwedwIDAQAB",
+   "manifest_version": 2,
+   "name": "HBO GO Quality Enforcer",
+   "permissions": [ "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "web_accessible_resources": [ "script.js" ]
+}

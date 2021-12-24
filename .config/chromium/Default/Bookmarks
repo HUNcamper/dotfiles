@@ -1,0 +1,40 @@
+{
+   "checksum": "8311d73a19912ea31ea060a9acb49a84",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13281827090015063",
+            "guid": "d8726234-d346-4c4f-97e0-32c3d51cd26a",
+            "id": "5",
+            "name": "Desolate - No Audio/No Sounds through Proton : linux_gaming",
+            "type": "url",
+            "url": "https://www.reddit.com/r/linux_gaming/comments/jgwsqf/desolate_no_audiono_sounds_through_proton/"
+         } ],
+         "date_added": "13281827072434305",
+         "date_modified": "13281827090015063",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281827072434314",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13281827072434317",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

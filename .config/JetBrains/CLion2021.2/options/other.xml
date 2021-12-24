@@ -1,0 +1,47 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.0.1/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="20P655kS76AEBYKeYfbgjg2dxGg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21ackl8WkZ4YPgoLMHgYyl6Xh1O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FindSplitterProportion" value="0.35550708" />
+    <property name="MarketplacePluginsSearchHistory" value="visual" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="CL-212.5457.51-78e660c4a5dfafbc5e83bc398c7c8625c923695a737ff06d95e71c923d479746" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="clion.initialConfigPerformed" value="true" />
+    <property name="evlsprt3.212" value="16" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/School/Prog2/hazi06.cpp&#10;/home/camper/School/Prog2/feladat.cpp" />
+    <property name="file.gist.reindex.count" value="25" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="ide.updates.previous.build.number" value="CL-212.5457.51" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="CL-212.5457.51" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Naming Convention" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

@@ -14,18 +14,26 @@
 default_border none
 
 exec --no-startup-id xscreensaver -no-splash
-exec --no-startup-id feh --bg-scale ~/Pictures/wallpapers/lain2_p.png
+exec --no-startup-id feh --bg-max /home/camper/Pictures/wallpapers/lain/1347189535135.jpg
 exec --no-startup-id alias i3conf="nano ~/.config/i3/config"
 exec --no-startup-id compton --config ~/.config/i3/compton.conf
 exec --no-startup-id dunst
-exec --no-startup-id python3 -m pywal --theme dkeg-relax -a 80
+#exec --no-startup-id python3 -m pywal --theme dkeg-relax -a 90
+exec --no-startup-id python3 -m pywal -a 90 -i ~/Pictures/wallpapers/lain/1347189535135.jpg
 exec --no-startup-id xrdb -merge ~/.Xresources
 #exec --no-startup-id conky -c ~/.conkyrc
+
+bindsym $mod+q exec --no-startup-id thunar
 
 bindsym Print exec flameshot gui
 
 
 bindsym $mod+Tab exec --no-startup-id rofi -show window
+
+
+bindsym $mod+x move scratchpad
+bindsym $mod+c scratchpad show
+
 
 # Pulse Audio controls
 #bindsym XF86AudioRaiseVolume exec --no-startup-id pactl -- set-sink-volume 0 +5% #increase sound volume
@@ -78,7 +86,8 @@ bindsym $mod+Shift+q kill
 # start dmenu (a program launcher)
 #bindsym $mod+d exec --no-startup-id dmenu_run
 #bindsym $mod+d exec --no-startup-id i3-dmenu-desktop 
-bindsym $mod+d exec --no-startup-id "rofi -show drun -modi run,drun"
+# bindsym $mod+d exec --no-startup-id "rofi -show drun -modi run,drun"
+bindsym $mod+d exec --no-startup-id "$HOME/.config/rofi/launchers/text/launcher.sh"
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a

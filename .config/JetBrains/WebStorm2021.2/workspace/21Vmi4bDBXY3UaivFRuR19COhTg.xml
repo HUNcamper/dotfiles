@@ -1,0 +1,375 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - adatbexpress@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - adatbexpress@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="adatbexpress: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="MySQL - adatbexpress@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="adatbexpress: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 6 table (host: schema adatbexpress)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="adatb-express" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dao/DAO.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/router.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2328">
+              <caret line="97" column="33" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/menetrend.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4248">
+              <caret line="177" column="44" selection-start-line="177" selection-start-column="44" selection-end-line="177" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/allomasok.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/vonatkocsik.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3000">
+              <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/mozdonyok.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2616">
+              <caret line="109" column="99" selection-start-line="109" selection-start-column="99" selection-end-line="109" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/navbar.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.</find>
+      <find>check</find>
+      <find>mozdony</find>
+      <find>vissza</find>
+      <find>megallok</find>
+      <find>allomasok_torles</find>
+      <find>allomasok</find>
+      <find>torles</find>
+      <find>mozdonytipus</find>
+      <find>törlés</find>
+      <find>megállók</find>
+      <find>megááló</find>
+      <find>query_megalloja</find>
+      <find>mozdonyok</find>
+      <find>GROUP</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app.js" />
+      <option value="$PROJECT_DIR$/views/vonatok.ejs" />
+      <option value="$PROJECT_DIR$/views/head.ejs" />
+      <option value="$PROJECT_DIR$/views/megallok.ejs" />
+      <option value="$PROJECT_DIR$/views/navbar.ejs" />
+      <option value="$PROJECT_DIR$/views/mozdonyok.ejs" />
+      <option value="$PROJECT_DIR$/views/menetrend.ejs" />
+      <option value="$PROJECT_DIR$/dao/DAO.js" />
+      <option value="$PROJECT_DIR$/routes/router.js" />
+      <option value="$PROJECT_DIR$/views/vonatkocsik.ejs" />
+      <option value="$PROJECT_DIR$/views/allomasok.ejs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="adatb-express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adatb-express" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="adatb-express-history2" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33422000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15807292" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.31640625" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" weight="0.32994792" />
+      <window_info id="npm" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3300095" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3300095" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3300095" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4002849" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="8" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3300095" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32994792" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Find</value>
+      <value>Favorites</value>
+      <value>Debug</value>
+      <value>Database</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="555" y="143" width="800" height="665" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638110240114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="143" width="800" height="665" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1638110240114" />
+    <state x="710" y="203" width="424" height="500" key="FileChooserDialogImpl" timestamp="1639131147340">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="710" y="203" width="424" height="500" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1639131147340" />
+    <state width="1878" height="319" key="GridCell.Tab.0.bottom" timestamp="1639058912013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1639058912013" />
+    <state width="1878" height="319" key="GridCell.Tab.0.center" timestamp="1639058912012">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1639058912012" />
+    <state width="1878" height="319" key="GridCell.Tab.0.left" timestamp="1639058912011">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1639058912011" />
+    <state width="1878" height="319" key="GridCell.Tab.0.right" timestamp="1639058912012">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1639058912012" />
+    <state width="1878" height="393" key="GridCell.Tab.1.bottom" timestamp="1638142767208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767208" />
+    <state width="1878" height="393" key="GridCell.Tab.1.center" timestamp="1638142767207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767207" />
+    <state width="1878" height="393" key="GridCell.Tab.1.left" timestamp="1638142767207">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767207" />
+    <state width="1878" height="393" key="GridCell.Tab.1.right" timestamp="1638142767208">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767208" />
+    <state width="1878" height="393" key="GridCell.Tab.2.bottom" timestamp="1638142767210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767210" />
+    <state width="1878" height="393" key="GridCell.Tab.2.center" timestamp="1638142767209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767209" />
+    <state width="1878" height="393" key="GridCell.Tab.2.left" timestamp="1638142767209">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767209" />
+    <state width="1878" height="393" key="GridCell.Tab.2.right" timestamp="1638142767210">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="393" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1638142767210" />
+    <state width="272" height="483" key="HiddenNamespacesPopup" timestamp="1638110106138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="272" height="483" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1638110106138" />
+    <state x="769" y="259" width="372" height="468" key="VCS.ChangeListViewerDialog" timestamp="1638035837467">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="259" width="372" height="468" key="VCS.ChangeListViewerDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1638035837467" />
+    <state x="841" y="415" width="228" height="156" key="VCS.EditChangelistDialog" timestamp="1638035805224">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="841" y="415" width="228" height="156" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1638035805224" />
+    <state x="555" y="235" width="800" height="516" key="Vcs.Push.Dialog.v2" timestamp="1638035825016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="235" width="800" height="516" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1638035825016" />
+    <state x="750" y="367" width="410" height="144" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1638113337389">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="750" y="367" width="410" height="144" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1638113337389" />
+    <state x="623" y="218" width="730" height="685" key="search.everywhere.popup" timestamp="1638132849910">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="218" width="730" height="685" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1638132849910" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://08d804c1-0165-4ad5-8d2b-daef458cab64/schema/adatbexpress/table/jarat">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1638110248073" presentationMode="TABLE" projectRestartId="0d0e2f63-af8f-4915-abcb-77083f6a7411" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="57" selection-end-line="7" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/DAO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="97" column="33" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/menetrend.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4248">
+          <caret line="177" column="44" selection-start-line="177" selection-start-column="44" selection-end-line="177" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/allomasok.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/vonatkocsik.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="125" column="28" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/mozdonyok.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2616">
+          <caret line="109" column="99" selection-start-line="109" selection-start-column="99" selection-end-line="109" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/navbar.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

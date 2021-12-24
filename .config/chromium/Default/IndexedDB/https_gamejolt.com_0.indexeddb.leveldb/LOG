@@ -1,0 +1,6 @@
+2021/11/19-20:20:38.481 28dc Creating DB /home/camper/.config/chromium/Default/IndexedDB/https_gamejolt.com_0.indexeddb.leveldb since it was missing.
+2021/11/19-20:20:38.496 28dc Reusing MANIFEST /home/camper/.config/chromium/Default/IndexedDB/https_gamejolt.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/19-20:20:44.165 28da Level-0 table #5: started
+2021/11/19-20:20:44.172 28da Level-0 table #5: 6882 bytes OK
+2021/11/19-20:20:44.178 28da Delete type=0 #3
+2021/11/19-20:20:44.179 28da Manual compaction at level-0 from (begin) .. (end); will stop at (end)

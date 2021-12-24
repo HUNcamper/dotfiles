@@ -1,0 +1,6 @@
+2021/11/19-20:23:04.116 28dc Creating DB /home/camper/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb since it was missing.
+2021/11/19-20:23:04.135 28dc Reusing MANIFEST /home/camper/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/19-20:24:19.725 2e88 Level-0 table #5: started
+2021/11/19-20:24:19.733 2e88 Level-0 table #5: 1822 bytes OK
+2021/11/19-20:24:19.741 2e88 Delete type=0 #3
+2021/11/19-20:24:19.742 2e88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

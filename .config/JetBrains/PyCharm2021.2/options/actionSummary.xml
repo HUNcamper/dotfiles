@@ -1,0 +1,112 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1639471727201" />
+    </e>
+    <e n="$Undo">
+      <i c="25" l="1639471686910" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="79" l="1636490669130" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1635962126059" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="3" l="1635962762735" />
+    </e>
+    <e n="EditorCopy">
+      <i c="4" l="1639471866973" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1635960165503" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="4" l="1635962684039" />
+    </e>
+    <e n="EditorDown">
+      <i c="7" l="1635962761379" />
+    </e>
+    <e n="EditorEnter">
+      <i c="35" l="1639471860607" />
+    </e>
+    <e n="EditorEscape">
+      <i c="3" l="1635962897582" />
+    </e>
+    <e n="EditorLeft">
+      <i c="52" l="1635962929271" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="42" l="1635962934863" />
+    </e>
+    <e n="EditorPaste">
+      <i c="14" l="1639471860778" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1639471685515" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="38" l="1635962886380" />
+    </e>
+    <e n="EditorRight">
+      <i c="157" l="1635962939400" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="2" l="1635962881372" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="2" l="1635962882273" />
+    </e>
+    <e n="EditorTab">
+      <i c="6" l="1635958712112" />
+    </e>
+    <e n="EditorUp">
+      <i c="3" l="1635962760621" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1635962757834" />
+    </e>
+    <e n="Find">
+      <i c="10" l="1635962229661" />
+    </e>
+    <e n="MarkExcludeRoot">
+      <i c="1" l="1635944149191" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1635944104294" />
+    </e>
+    <e n="NewScratchFile">
+      <i c="1" l="1639471611693" />
+    </e>
+    <e n="SaveAll">
+      <i c="37" l="1636490670258" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1635941396785" />
+    </e>
+    <e n="SynchronizeCurrentFile">
+      <i c="3" l="1635944245668" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="5" l="1636490639658" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1635856164220" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$11">
+      <i c="3" l="1635961607475" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="17" l="1635962243113" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="2" l="1635962234941" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1636490795345" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1635858621453" />
+    </e>
+  </component>
+</application>

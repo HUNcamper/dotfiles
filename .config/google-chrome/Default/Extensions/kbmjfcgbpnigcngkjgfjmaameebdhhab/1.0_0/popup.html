@@ -1,0 +1,49 @@
+	<!DOCTYPE html>
+	<html>
+		<head>
+			<script src="jquery-3.3.1.min.js"></script>
+			<style>
+				body {
+					width: 150px;
+					text-align: center;
+					height: 275px;
+					background-color: black;
+					color: white;
+					font-size: 16px;
+					font-family: sans-serif;
+				}
+				div {
+					display: inline-block;
+				}
+				#logo {
+					font-size: 30px;
+					margin-bottom: 10px;
+					margin-top: 10px;
+					font-weight: 700;
+				}
+				#info {
+					font-size: 18px;
+					margin-top: 10px;
+					margin-bottom: 10px;
+				}
+				#options {
+					text-align: left;
+				}
+			</style>
+		</head>
+		<body>
+			<div id='logo'>HBO GO</div>
+			<div id='info'>Force resolution:</div>
+			<div id='options'>
+				<input type='radio' name='quality' value='224' >396 x 224</input><br/>
+				<input type='radio' name='quality' value='272' >480 x 272</input><br/>
+				<input type='radio' name='quality' value='336' >592 x 336</input><br/>
+				<input type='radio' name='quality' value='400' >704 x 400</input><br/>
+				<input type='radio' name='quality' value='480' >848 x 480</input><br/>
+				<input type='radio' name='quality' value='576' >1024 x 576</input><br/>
+				<input type='radio' name='quality' value='720' >1280 x 720</input><br/>
+				<input type='radio' name='quality' value='1080' >1920 x 1080</input><br/>
+			</div>
+			<script src="popup.js"></script>
+		</body>
+	</html>

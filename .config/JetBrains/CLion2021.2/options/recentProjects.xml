@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/hazi06">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hazi06 – main.cpp" projectWorkspaceId="20P655kS76AEBYKeYfbgjg2dxGg">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5457.51" />
+              <option name="buildTimestamp" value="1634202525240" />
+              <frame x="960" y="-18" width="960" height="1071" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1635933689998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/mintazh2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mintazh2 – main.cpp" opened="true" projectWorkspaceId="21ackl8WkZ4YPgoLMHgYyl6Xh1O">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-212.5457.51" />
+              <option name="buildTimestamp" value="1634202528046" />
+              <frame x="960" y="-18" width="960" height="1071" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1638182783949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

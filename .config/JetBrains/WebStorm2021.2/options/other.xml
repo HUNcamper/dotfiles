@@ -1,0 +1,112 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.0.1/bin/node">
+      <version-cache version="17.0.1" last-modified="1634748429000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.13.1/bin/node">
+      <version-cache version="16.13.1" last-modified="1638358168000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v11.15.0/bin/node">
+      <version-cache version="11.15.0" last-modified="1556598524000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v17.0.1/bin/nodemon">
+      <version-cache version="2.0.15" last-modified="1637009045774" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="20E3oFvqTesI8lMCdP1Z7DgyswE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="20yDrWrRi0Tw8zJQWutc7cglrqk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21Vmi4bDBXY3UaivFRuR19COhTg">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21jpQ7323S7c24RfjDUorIEXYYj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21ugJjL1Vyzb5C16REWyNJVSOE6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225d27n6xT62YHPugi91FOLpIPe">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225doPc2PkFWMTQSV4nE8LJBjaT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225dydhzGBfVEpdFhISNosxacHW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="225e4JZcfkjabGeLsQlq89OhSQb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="79-76-76-255,,,191-0-255-255,,,146-6-245-255,,,129-22-204-255,,,0-93-0-255,,,3-3-3-255,,,0-68-0-255,,,75-32-105-255,,,156-78-215-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FindSplitterProportion" value="0.23695345" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="database tools&#10;database tool&#10;database too&#10;database to&#10;database" />
+    <property name="MarketplacePluginsSearchHistory" value="atom&#10;database tools&#10;visu" />
+    <property name="NextRunPlatformUpdateBuild" value="WS-213.5744.224/2021.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3" />
+    <property name="appcds.runOnSecondStart" value="WS-212.5457.55-9f47fdf6e32972f3987d45a55d456ecf0d9335d3626f002d21f652978852885c" />
+    <property name="evlsprt3.212" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Projects/GitHub/ekopark/client&#10;/home/camper/Projects/GitHub/ekopark&#10;/home/camper/Projects/GitHub/neocities-v2&#10;/home/camper/School/rf1/imdb&#10;/home/camper/School/Adatb/adatb-express/adatb-express&#10;/home/camper/School/rf1/imdb/server/router/ratingRouter.js&#10;/home/camper/School/Adatb/adatb-express&#10;/home/camper/.nvm/versions/node/v17.0.1/bin/nodemon&#10;/home/camper/School/rf1/imdb/app.js&#10;/home/camper/School/rf1/imdb/package.json&#10;/home/camper/School/rf1/imdb/server/dao/DAO.js&#10;/home/camper/School/rf1/imdb/server/router/router.js&#10;/home/camper/School/Szkript/hazi7.js&#10;/home/camper/Projects/GitHub/demo-imdb" />
+    <property name="file.gist.reindex.count" value="137" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.js.debugger.terminal.start.debugger.from.url" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="got.it.tooltip.web.preview.reload.on.save" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="WS-212.5457.55" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/GitHub/ekopark/client" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="WS-212.5457.55" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="adatb-express-history" project-path="$USER_HOME$/WebstormProjects/adatb-express" last-access-time="1637079060103" />
+      <command-history-file filename="demo-imdb-history" project-path="$USER_HOME$/Projects/GitHub/demo-imdb" last-access-time="1637589080431" />
+      <command-history-file filename="imdb-history" project-path="$USER_HOME$/School/rf1/imdb" last-access-time="1638464670691" />
+      <command-history-file filename="adatb-express-history2" project-path="$USER_HOME$/School/Adatb/adatb-express/adatb-express" last-access-time="1638133767852" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

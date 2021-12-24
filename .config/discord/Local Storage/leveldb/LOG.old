@@ -1,0 +1,63 @@
+2021/12/16-02:09:46.034 6ba Reusing MANIFEST /home/camper/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/12/16-02:09:46.034 6ba Recovering log #471
+2021/12/16-02:09:46.035 6ba Reusing old log /home/camper/.config/discord/Local Storage/leveldb/000471.log 
+2021/12/16-02:12:46.916 6ba Level-0 table #475: started
+2021/12/16-02:12:46.925 6ba Level-0 table #475: 11459 bytes OK
+2021/12/16-02:12:46.935 6ba Delete type=0 #471
+2021/12/16-02:15:46.916 6a5 Level-0 table #477: started
+2021/12/16-02:15:46.922 6a5 Level-0 table #477: 10590 bytes OK
+2021/12/16-02:15:46.929 6a5 Delete type=0 #474
+2021/12/16-02:18:46.916 6a5 Level-0 table #479: started
+2021/12/16-02:18:46.922 6a5 Level-0 table #479: 10586 bytes OK
+2021/12/16-02:18:46.932 6a5 Delete type=0 #476
+2021/12/16-02:18:46.932 6ba Compacting 4@0 + 1@1 files
+2021/12/16-02:18:46.942 6ba Generated table #480@0: 132 keys, 170764 bytes
+2021/12/16-02:18:46.942 6ba Compacted 4@0 + 1@1 files => 170764 bytes
+2021/12/16-02:18:46.950 6ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/16-02:18:46.951 6ba Delete type=2 #477
+2021/12/16-02:18:46.951 6ba Delete type=2 #472
+2021/12/16-02:18:46.951 6ba Delete type=2 #475
+2021/12/16-02:18:46.951 6ba Delete type=2 #479
+2021/12/16-02:18:46.951 6ba Delete type=2 #470
+2021/12/16-02:20:46.915 6ba Level-0 table #482: started
+2021/12/16-02:20:46.922 6ba Level-0 table #482: 10514 bytes OK
+2021/12/16-02:20:46.927 6ba Delete type=0 #478
+2021/12/16-02:22:46.915 6a5 Level-0 table #484: started
+2021/12/16-02:22:46.923 6a5 Level-0 table #484: 10510 bytes OK
+2021/12/16-02:22:46.936 6a5 Delete type=0 #481
+2021/12/16-02:24:46.915 6ba Level-0 table #486: started
+2021/12/16-02:24:46.924 6ba Level-0 table #486: 10519 bytes OK
+2021/12/16-02:24:46.934 6ba Delete type=0 #483
+2021/12/16-02:27:46.915 6a5 Level-0 table #488: started
+2021/12/16-02:27:46.922 6a5 Level-0 table #488: 10581 bytes OK
+2021/12/16-02:27:46.928 6a5 Delete type=0 #485
+2021/12/16-02:27:46.928 6a5 Compacting 4@0 + 1@1 files
+2021/12/16-02:27:46.938 6a5 Generated table #489@0: 132 keys, 170757 bytes
+2021/12/16-02:27:46.938 6a5 Compacted 4@0 + 1@1 files => 170757 bytes
+2021/12/16-02:27:46.946 6a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/16-02:27:46.947 6a5 Delete type=2 #486
+2021/12/16-02:27:46.947 6a5 Delete type=2 #480
+2021/12/16-02:27:46.947 6a5 Delete type=2 #488
+2021/12/16-02:27:46.947 6a5 Delete type=2 #482
+2021/12/16-02:27:46.947 6a5 Delete type=2 #484
+2021/12/16-02:29:46.915 6ba Level-0 table #491: started
+2021/12/16-02:29:46.924 6ba Level-0 table #491: 10520 bytes OK
+2021/12/16-02:29:46.930 6ba Delete type=0 #487
+2021/12/16-02:31:46.916 6a5 Level-0 table #493: started
+2021/12/16-02:31:46.922 6a5 Level-0 table #493: 10518 bytes OK
+2021/12/16-02:31:46.929 6a5 Delete type=0 #490
+2021/12/16-02:33:46.915 6a5 Level-0 table #495: started
+2021/12/16-02:33:46.925 6a5 Level-0 table #495: 10519 bytes OK
+2021/12/16-02:33:46.934 6a5 Delete type=0 #492
+2021/12/16-02:35:46.915 6ba Level-0 table #497: started
+2021/12/16-02:35:46.923 6ba Level-0 table #497: 10509 bytes OK
+2021/12/16-02:35:46.929 6ba Delete type=0 #494
+2021/12/16-02:35:46.930 6a5 Compacting 4@0 + 1@1 files
+2021/12/16-02:35:46.943 6a5 Generated table #498@0: 132 keys, 170754 bytes
+2021/12/16-02:35:46.943 6a5 Compacted 4@0 + 1@1 files => 170754 bytes
+2021/12/16-02:35:46.951 6a5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/16-02:35:46.953 6a5 Delete type=2 #489
+2021/12/16-02:35:46.953 6a5 Delete type=2 #493
+2021/12/16-02:35:46.953 6a5 Delete type=2 #491
+2021/12/16-02:35:46.953 6a5 Delete type=2 #495
+2021/12/16-02:35:46.953 6a5 Delete type=2 #497

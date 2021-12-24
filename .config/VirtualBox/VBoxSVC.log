@@ -1,0 +1,63 @@
+00:00:00.001658 main     VirtualBox XPCOM Server 6.1.30 r148432 linux.amd64 (Nov 22 2021 15:39:16) release log
+00:00:00.001662 main     Log opened 2021-12-15T16:56:25.363228000Z
+00:00:00.001662 main     Build Type: release
+00:00:00.001668 main     OS Product: Linux
+00:00:00.001669 main     OS Release: 5.14.0-3-amd64
+00:00:00.001670 main     OS Version: #1 SMP Debian 5.14.12-1 (2021-10-14)
+00:00:00.001696 main     DMI Product Name: 2441B88
+00:00:00.001712 main     DMI Product Version: ThinkPad W530
+00:00:00.001722 main     Firmware type: BIOS
+00:00:00.001778 main     Host RAM: 15580MB (15.2GB) total, 13304MB (12.9GB) available
+00:00:00.001792 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001792 main     Process ID: 17469
+00:00:00.001793 main     Package type: LINUX_64BITS__DEBIAN_11
+00:00:00.002974 main     IPC socket path: /tmp/.vbox-camper-ipc/ipcd
+00:00:00.111916 nspr-2   VirtualBox: object creation starts
+00:00:00.112112 nspr-2   Home directory: '/home/camper/.config/VirtualBox'
+00:00:00.112930 nspr-2   Loading settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.121077 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.131350 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.132969 nspr-2   HostDnsMonitor: initializing
+00:00:00.133311 nspr-2   NAT: resolv.conf: nameserver 10.1.255.254
+00:00:00.133347 nspr-2   HostDnsMonitor: updating information
+00:00:00.133371 nspr-2   HostDnsMonitor: old information
+00:00:00.133378 nspr-2     no server entries
+00:00:00.133382 nspr-2     no domain set
+00:00:00.133386 nspr-2     no search string entries
+00:00:00.133390 nspr-2   HostDnsMonitor: new information
+00:00:00.133394 nspr-2     server 1: 10.1.255.254
+00:00:00.133399 nspr-2     domain: mora.u-szeged.hu
+00:00:00.133403 nspr-2     search string 1: mora.u-szeged.hu
+00:00:00.144987 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.150870 nspr-2   Loading settings file "/home/camper/VirtualBox VMs/Windows 10 64 bit/Windows 10 64 bit.vbox" with version "1.15-linux"
+00:00:00.155032 nspr-2   OCI: Local config file '/home/camper/.config/VirtualBox/oci_config' does not exist
+00:00:00.155050 nspr-2   OCI: Original config file '/home/camper/.oci/config' does not exist
+00:00:00.155054 nspr-2   OCI: Reading profiles finished with status NS_OK
+00:00:00.155061 nspr-2   ExtPack: Created cloud provider 'OCI' (hrc=NS_OK)
+00:00:00.155077 nspr-2   VirtualBox: object created
+00:00:03.360239 nspr-2   Launched VM: 939532288 pid: 17531 (0x447b) frontend: GUI/Qt name: Windows 10 64 bit
+00:00:04.229002 nspr-2   Load [/usr/lib/virtualbox/ExtensionPacks/Oracle_VM_VirtualBox_Extension_Pack/linux.amd64/VBoxHostWebcam.so] vrc=VINF_SUCCESS
+00:00:04.254737 nspr-2   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.273942 nspr-6   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:04.316550 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:04.340907 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:05.418536 nspr-9   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.434133 nspr-3   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.463537 nspr-8   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:05.478383 nspr-9   Saving settings file "/home/camper/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.955709 nspr-7   Saving settings file "/home/camper/VirtualBox VMs/Windows 10 64 bit/Windows 10 64 bit.vbox" with version "1.15-linux"
+00:00:36.700176 nspr-8   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:56.955106 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:02.551182 nspr-2   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:16.682612 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:03:24.047438 nspr-8   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:24.058639 nspr-9   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:03:26.390909 nspr-9   Saving settings file "/home/camper/VirtualBox VMs/Windows 10 64 bit/Windows 10 64 bit.vbox" with version "1.15-linux"
+00:13:14.643149 nspr-4   Saving settings file "/home/camper/VirtualBox VMs/Windows 10 64 bit/Windows 10 64 bit.vbox" with version "1.15-linux"
+00:13:20.511454 main     VirtualBox: object deletion starts
+00:13:20.511574 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/camper/VirtualBox VMs/Windows 10 64 bit/Windows 10 64 bit.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:20.512429 main     HostDnsMonitor: shutting down ...
+00:13:20.525962 main     HostDnsMonitor: shut down
+00:13:20.650757 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:13:25.541893 main     {00007f2b3c0196b0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:13:25.542553 main     VirtualBox: object deleted

@@ -1,0 +1,187 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1638187863900" />
+    </e>
+    <e n="$SelectAll">
+      <i c="16" l="1638183621964" />
+    </e>
+    <e n="$Undo">
+      <i c="36" l="1638188389502" />
+    </e>
+    <e n="CIDR.Lang.Cpp.GenerateConstructor">
+      <i c="11" l="1638185497984" />
+    </e>
+    <e n="CIDR.Lang.Cpp.GenerateDestructor">
+      <i c="1" l="1638183725695" />
+    </e>
+    <e n="CIDR.Lang.Cpp.GenerateGetter">
+      <i c="7" l="1638183225208" />
+    </e>
+    <e n="CIDR.Lang.Cpp.NewClass">
+      <i c="1" l="1638183511454" />
+    </e>
+    <e n="CPP.CreateCMakeProject">
+      <i c="2" l="1638183493941" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1635936235283" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="761" l="1638188478891" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="206" l="1638188480537" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1638183073888" />
+    </e>
+    <e n="EditorCopy">
+      <i c="30" l="1638188564956" />
+    </e>
+    <e n="EditorCut">
+      <i c="13" l="1638188329422" />
+    </e>
+    <e n="EditorDelete">
+      <i c="9" l="1638188306415" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="70" l="1638188400705" />
+    </e>
+    <e n="EditorDown">
+      <i c="263" l="1638188475954" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1635934399325" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1638185217534" />
+    </e>
+    <e n="EditorEnter">
+      <i c="320" l="1638188470706" />
+    </e>
+    <e n="EditorEscape">
+      <i c="13" l="1638188098808" />
+    </e>
+    <e n="EditorLeft">
+      <i c="157" l="1638187974201" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="39" l="1638188403805" />
+    </e>
+    <e n="EditorMoveToPageBottom">
+      <i c="1" l="1638184516533" />
+    </e>
+    <e n="EditorMoveToPageTop">
+      <i c="1" l="1635939679398" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="180" l="1638188307347" />
+    </e>
+    <e n="EditorPageDown">
+      <i c="2" l="1635937068625" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1635937066555" />
+    </e>
+    <e n="EditorPaste">
+      <i c="39" l="1638188245697" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="4" l="1635938281805" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="134" l="1638187972533" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="6" l="1635934930515" />
+    </e>
+    <e n="EditorRight">
+      <i c="228" l="1638188400079" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="7" l="1638185394166" />
+    </e>
+    <e n="EditorTab">
+      <i c="47" l="1638187563568" />
+    </e>
+    <e n="EditorUp">
+      <i c="175" l="1638188466672" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="11" l="1638188401992" />
+    </e>
+    <e n="FileChooser.Refresh">
+      <i c="1" l="1635933787979" />
+    </e>
+    <e n="Find">
+      <i c="5" l="1638188176150" />
+    </e>
+    <e n="Generate">
+      <i c="23" l="1638185497287" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="15" l="1635938948407" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1638183502299" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="4" l="1638184799002" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1635939083893" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1638184798172" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1638188102266" />
+    </e>
+    <e n="Run">
+      <i c="49" l="1638187877123" />
+    </e>
+    <e n="RunAnything">
+      <i c="6" l="1635937128042" />
+    </e>
+    <e n="SaveAll">
+      <i c="299" l="1638188482903" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1638183103746" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="16" l="1638183286838" />
+    </e>
+    <e n="Tree-selectNextExtendSelection">
+      <i c="6" l="1638183232266" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="9" l="1638183286537" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$11">
+      <i c="2" l="1638188182847" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="11" l="1638188177211" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="5" l="1638188180363" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1638189049526" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1638183516903" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="5" l="1638189044462" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1635933675279" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="2" l="1638182844865" />
+    </e>
+  </component>
+</application>

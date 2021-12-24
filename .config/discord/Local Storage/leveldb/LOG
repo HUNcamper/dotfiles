@@ -1,0 +1,9 @@
+2021/12/16-10:58:45.701 a15 Reusing MANIFEST /home/camper/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/12/16-10:58:45.701 a15 Recovering log #496
+2021/12/16-10:58:45.703 a15 Reusing old log /home/camper/.config/discord/Local Storage/leveldb/000496.log 
+2021/12/16-10:59:46.925 a16 Level-0 table #501: started
+2021/12/16-10:59:46.934 a16 Level-0 table #501: 10645 bytes OK
+2021/12/16-10:59:46.942 a16 Delete type=0 #496
+2021/12/16-16:04:47.176 a16 Level-0 table #503: started
+2021/12/16-16:04:47.185 a16 Level-0 table #503: 53543 bytes OK
+2021/12/16-16:04:47.194 a16 Delete type=0 #500

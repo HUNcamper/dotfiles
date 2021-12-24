@@ -1,0 +1,24 @@
+[global_config]
+  title_font = IBM 3270 9
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#300a24"
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Monospace 10
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    use_system_font = False
+    background_image = /home/camper/Pictures/wallpapers/lain.jpg
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
