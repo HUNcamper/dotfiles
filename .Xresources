@@ -5,5 +5,5 @@ URxvt.iso14755: false
 URxvt.iso14755_52: false
 URxvt.scrollBar: false
 
-URxvt.font: xft:hack:pixelsize=14
-
+URxvt.font: xft:hack:pixelsize=16
+URxvt.internalBorder: 24
